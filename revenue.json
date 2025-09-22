@@ -1,5 +1,5 @@
 {
-    "total_revenue": 340.0,
+    "total_revenue": 800.0,
     "total_rides": 4,
     "total_minutes": 84,
     "average_ride_value": 85.0,
@@ -38,4 +38,5 @@
         }
     ]
 }
+
 
