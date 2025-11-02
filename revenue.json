@@ -1,8 +1,8 @@
 {
-    "total_revenue": 1470.0,
-    "total_rides": 42,
-    "total_minutes": 3408,
-    "average_ride_value": 35.0,
+    "total_revenue": 1510.0,
+    "total_rides": 43,
+    "total_minutes": 3466,
+    "average_ride_value": 35.116279069767444,
     "rides": [
         {
             "id": 206,
@@ -19,6 +19,14 @@
             "end_time": "2025-11-02T13:50:11.110759",
             "duration_minutes": 30,
             "revenue": 25.0
+        },
+        {
+            "id": 202,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T13:06:38.956099",
+            "end_time": "2025-11-02T14:05:02.541896",
+            "duration_minutes": 58,
+            "revenue": 40.0
         },
         {
             "id": 201,
