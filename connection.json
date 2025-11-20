@@ -1,8 +1,6 @@
 {
     "active": true,
-    "url": "ws://192.168.100.109:8000/ws",
-    "http_url": "http://192.168.100.109:8000",
-    "method": "Local Only",
-    "local_ip": "192.168.100.109",
-    "last_updated": "2025-11-20T11:14:35.916595"
+    "url": "wss://admin.localhost.run/ws",
+    "method": "Global Tunnel",
+    "last_updated": "2025-11-20T11:26:55.531288"
 }
