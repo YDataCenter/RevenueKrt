@@ -1,8 +1,8 @@
 {
     "active": true,
-    "url": "wss://admin.localhost.run",
+    "url": "wss://admin.localhost.run/ws",
     "http_url": "https://admin.localhost.run",
     "method": "SSH Tunnel",
     "local_ip": "192.168.100.109",
-    "last_updated": "2025-11-20T11:01:00.196936"
+    "last_updated": "2025-11-20T11:06:08.613764"
 }
