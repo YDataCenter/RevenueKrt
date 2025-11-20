@@ -1,9 +1,10 @@
 {
     "active": true,
-    "url": "ws://212.93.153.160:8000",
-    "http_url": "http://212.93.153.160:8000",
+    "url": "ws://192.168.100.109:8000",
+    "http_url": "http://192.168.100.109:8000",
     "public_ip": "212.93.153.160",
     "local_ip": "192.168.100.109",
-    "last_updated": "2025-11-20T10:44:11.717681",
-    "note": "Ensure Port 8000 is forwarded on router for Public IP access."
+    "upnp_enabled": false,
+    "last_updated": "2025-11-20T10:51:21.127731",
+    "note": "If upnp_enabled is false, external connection requires manual port forwarding."
 }
