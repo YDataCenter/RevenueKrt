@@ -1,0 +1,9 @@
+{
+    "active": true,
+    "url": "ws://212.93.153.160:8000",
+    "http_url": "http://212.93.153.160:8000",
+    "public_ip": "212.93.153.160",
+    "local_ip": "192.168.100.109",
+    "last_updated": "2025-11-20T09:51:41.833414",
+    "note": "Ensure Port 8000 is forwarded on router for Public IP access."
+}
