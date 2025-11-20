@@ -2,9 +2,7 @@
     "active": true,
     "url": "ws://192.168.100.109:8000",
     "http_url": "http://192.168.100.109:8000",
-    "public_ip": "212.93.153.160",
+    "method": "Local Only",
     "local_ip": "192.168.100.109",
-    "upnp_enabled": false,
-    "last_updated": "2025-11-20T10:51:21.127731",
-    "note": "If upnp_enabled is false, external connection requires manual port forwarding."
+    "last_updated": "2025-11-20T11:00:07.645184"
 }
