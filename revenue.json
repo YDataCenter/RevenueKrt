@@ -49,7 +49,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
             "name": "Kart-55",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676600.3238728,
             "last_known_rssi": -92,
             "is_virtual": false,
@@ -61,7 +61,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:9A",
             "name": "Kart-26",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241756,
             "last_known_rssi": -71,
             "is_virtual": false,
@@ -73,7 +73,7 @@
         {
             "mac_address": "DC:2C:6E:9D:30:9F",
             "name": "Kart-15",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241622,
             "last_known_rssi": -82,
             "is_virtual": false,
@@ -85,7 +85,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
             "name": "Kart-43",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676576.3208742,
             "last_known_rssi": -80,
             "is_virtual": false,
@@ -97,7 +97,7 @@
         {
             "mac_address": "DC:2C:6E:9D:22:59",
             "name": "Kart-42",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676598.3232129,
             "last_known_rssi": -78,
             "is_virtual": false,
@@ -109,7 +109,7 @@
         {
             "mac_address": "DC:2C:6E:9F:9C:8C",
             "name": "Kart-47",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676578.320472,
             "last_known_rssi": -92,
             "is_virtual": false,
@@ -121,7 +121,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:BE",
             "name": "Kart-25",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676029.0373516,
             "last_known_rssi": -79,
             "is_virtual": false,
@@ -133,7 +133,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:C7",
             "name": "Kart-46",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676600.3238826,
             "last_known_rssi": -82,
             "is_virtual": false,
@@ -145,7 +145,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:3E",
             "name": "KABOOM",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241715,
             "last_known_rssi": -81,
             "is_virtual": false,
@@ -157,7 +157,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:64",
             "name": "Kart-44",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676033.0378256,
             "last_known_rssi": -91,
             "is_virtual": false,
