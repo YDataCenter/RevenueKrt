@@ -1,7 +1,8 @@
 {
-    "last_seen": "2025-12-01T12:59:57.776039",
+    "last_seen": "2025-12-01T13:14:21.634934",
     "online_karts": 0,
     "total_karts": 10,
-    "today_revenue": 0,
+    "today_revenue": 250.0,
+    "config_updated_at": "2025-12-01T13:03:10",
     "version": "1.0.0"
 }
