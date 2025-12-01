@@ -448,7 +448,7 @@
     "karts": [
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
-            "name": "Kart-55",
+            "name": "Kart-55 fara 1",
             "status": "IN_USE",
             "last_seen": 1759676600.3238728,
             "last_known_rssi": -92,
