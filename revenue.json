@@ -1,168 +1,812 @@
 {
-    "total_revenue": 1080.0,
-    "total_rides": 25,
-    "total_minutes": 53950,
-    "average_ride_value": 43.2,
+    "total_revenue": 3530.0,
+    "total_rides": 104,
+    "total_minutes": 6184,
+    "average_ride_value": 33.94230769230769,
+    "kart_names": {
+        "DC:2C:6E:9F:99:9F": "Kart-55",
+        "DC:2C:6E:9F:99:9A": "Kart-26",
+        "DC:2C:6E:9D:30:9F": "Kart-15",
+        "DC:2C:6E:9F:99:B4": "Kart-43",
+        "DC:2C:6E:9D:22:59": "Kart-42",
+        "DC:2C:6E:9F:9C:8C": "Kart-47",
+        "DC:2C:6E:9F:98:BE": "Kart-25",
+        "DC:2C:6E:9F:98:C7": "Kart-46",
+        "DC:2C:6E:9F:98:3E": "Kart-13",
+        "DC:2C:6E:9F:98:64": "Kart-44"
+    },
     "rides": [
         {
-            "id": 102,
+            "id": 399,
             "mac_address": "DC:2C:6E:9F:98:64",
-            "start_time": "2025-12-01T12:58:22.756445",
-            "end_time": "2025-12-01T13:14:18.475537",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.851175",
+            "end_time": "2025-11-20T12:01:32.544238",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 101,
+            "id": 398,
             "mac_address": "DC:2C:6E:9F:98:3E",
-            "start_time": "2025-12-01T12:58:22.749380",
-            "end_time": "2025-12-01T13:14:18.470533",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.841444",
+            "end_time": "2025-11-20T12:01:32.505690",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 100,
+            "id": 397,
             "mac_address": "DC:2C:6E:9F:98:C7",
-            "start_time": "2025-12-01T12:58:22.736929",
-            "end_time": "2025-12-01T13:14:18.465026",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.831980",
+            "end_time": "2025-11-20T12:01:32.494780",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 99,
+            "id": 396,
             "mac_address": "DC:2C:6E:9F:98:BE",
-            "start_time": "2025-12-01T12:58:22.719146",
-            "end_time": "2025-12-01T13:14:18.458517",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.823540",
+            "end_time": "2025-11-20T12:01:32.442066",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 98,
+            "id": 395,
             "mac_address": "DC:2C:6E:9F:9C:8C",
-            "start_time": "2025-12-01T12:58:22.707637",
-            "end_time": "2025-12-01T13:14:18.452992",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.813561",
+            "end_time": "2025-11-20T12:01:32.378131",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 97,
+            "id": 394,
             "mac_address": "DC:2C:6E:9D:22:59",
-            "start_time": "2025-12-01T12:58:22.691816",
-            "end_time": "2025-12-01T13:14:18.446992",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.805191",
+            "end_time": "2025-11-20T12:01:32.301213",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 96,
+            "id": 393,
             "mac_address": "DC:2C:6E:9F:99:B4",
-            "start_time": "2025-12-01T12:58:22.676146",
-            "end_time": "2025-12-01T13:14:18.441484",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.797037",
+            "end_time": "2025-11-20T12:01:32.251201",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 95,
+            "id": 392,
             "mac_address": "DC:2C:6E:9D:30:9F",
-            "start_time": "2025-12-01T12:58:22.667863",
-            "end_time": "2025-12-01T13:14:18.436609",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.787675",
+            "end_time": "2025-11-20T12:01:32.194455",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 94,
+            "id": 391,
             "mac_address": "DC:2C:6E:9F:99:9A",
-            "start_time": "2025-12-01T12:58:22.658394",
-            "end_time": "2025-12-01T13:14:18.430552",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.780298",
+            "end_time": "2025-11-20T12:01:32.088014",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 93,
+            "id": 390,
             "mac_address": "DC:2C:6E:9F:99:9F",
-            "start_time": "2025-12-01T12:58:22.650462",
-            "end_time": "2025-12-01T13:14:18.424861",
-            "duration_minutes": 16,
+            "start_time": "2025-11-20T11:27:24.769873",
+            "end_time": "2025-11-20T12:01:32.041111",
+            "duration_minutes": 34,
             "revenue": 25.0
         },
         {
-            "id": 92,
+            "id": 319,
             "mac_address": "DC:2C:6E:9F:98:64",
-            "start_time": "2025-11-27T20:47:46.134935",
-            "end_time": "2025-12-01T12:57:52.395658",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.130585",
+            "end_time": "2025-11-20T10:44:12.879207",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 91,
+            "id": 318,
             "mac_address": "DC:2C:6E:9F:98:3E",
-            "start_time": "2025-11-27T20:47:46.130927",
-            "end_time": "2025-12-01T12:57:52.389650",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.122603",
+            "end_time": "2025-11-20T10:44:12.869632",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 90,
+            "id": 317,
             "mac_address": "DC:2C:6E:9F:98:C7",
-            "start_time": "2025-11-27T20:47:46.126412",
-            "end_time": "2025-12-01T12:57:52.384554",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.114399",
+            "end_time": "2025-11-20T10:44:12.859900",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 89,
+            "id": 316,
             "mac_address": "DC:2C:6E:9F:98:BE",
-            "start_time": "2025-11-27T20:47:46.122181",
-            "end_time": "2025-12-01T12:57:52.378571",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.105500",
+            "end_time": "2025-11-20T10:44:12.851829",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 88,
+            "id": 315,
             "mac_address": "DC:2C:6E:9F:9C:8C",
-            "start_time": "2025-11-27T20:47:46.117057",
-            "end_time": "2025-12-01T12:57:52.372983",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.095371",
+            "end_time": "2025-11-20T10:44:12.842869",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 87,
+            "id": 314,
             "mac_address": "DC:2C:6E:9D:22:59",
-            "start_time": "2025-11-27T20:47:46.111556",
-            "end_time": "2025-12-01T12:57:52.368044",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.087233",
+            "end_time": "2025-11-20T10:44:12.832847",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 86,
+            "id": 313,
             "mac_address": "DC:2C:6E:9F:99:B4",
-            "start_time": "2025-11-27T20:47:46.104647",
-            "end_time": "2025-12-01T12:57:52.362498",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.076871",
+            "end_time": "2025-11-20T10:44:12.822777",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 85,
+            "id": 312,
             "mac_address": "DC:2C:6E:9D:30:9F",
-            "start_time": "2025-11-27T20:47:46.100131",
-            "end_time": "2025-12-01T12:57:52.355856",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.068374",
+            "end_time": "2025-11-20T10:44:12.812606",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 84,
+            "id": 311,
             "mac_address": "DC:2C:6E:9F:99:9A",
-            "start_time": "2025-11-27T20:47:46.095297",
-            "end_time": "2025-12-01T12:57:52.350352",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.061643",
+            "end_time": "2025-11-20T10:44:12.804163",
+            "duration_minutes": 52,
             "revenue": 40.0
         },
         {
-            "id": 83,
+            "id": 310,
             "mac_address": "DC:2C:6E:9F:99:9F",
-            "start_time": "2025-11-27T20:47:46.091613",
-            "end_time": "2025-12-01T12:57:52.345039",
-            "duration_minutes": 5290,
+            "start_time": "2025-11-20T09:52:11.052458",
+            "end_time": "2025-11-20T10:44:12.793385",
+            "duration_minutes": 52,
             "revenue": 40.0
+        },
+        {
+            "id": 309,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-11-20T08:42:47.937067",
+            "end_time": "2025-11-20T09:51:43.036377",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 308,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-20T08:42:47.927881",
+            "end_time": "2025-11-20T09:51:43.007809",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 307,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-20T08:42:45.919372",
+            "end_time": "2025-11-20T09:51:43.027044",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 306,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-20T08:42:45.909652",
+            "end_time": "2025-11-20T09:51:43.018646",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 305,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-20T08:42:45.898561",
+            "end_time": "2025-11-20T09:51:42.998842",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 304,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-20T08:42:45.890510",
+            "end_time": "2025-11-20T09:51:42.988713",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 303,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-11-20T08:42:45.882104",
+            "end_time": "2025-11-20T09:51:42.979706",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 302,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-11-20T08:42:45.874477",
+            "end_time": "2025-11-20T09:51:42.965899",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 301,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-11-20T08:42:45.867327",
+            "end_time": "2025-11-20T09:51:42.949351",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 300,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-11-20T08:42:45.857629",
+            "end_time": "2025-11-20T09:51:42.936341",
+            "duration_minutes": 69,
+            "revenue": 40.0
+        },
+        {
+            "id": 238,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-02T17:41:45.627058",
+            "end_time": "2025-11-02T18:09:34.065969",
+            "duration_minutes": 28,
+            "revenue": 25.0
+        },
+        {
+            "id": 237,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-02T17:34:21.926635",
+            "end_time": "2025-11-02T18:01:07.015908",
+            "duration_minutes": 27,
+            "revenue": 25.0
+        },
+        {
+            "id": 236,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T17:26:28.598279",
+            "end_time": "2025-11-02T17:57:26.935839",
+            "duration_minutes": 31,
+            "revenue": 25.0
+        },
+        {
+            "id": 235,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-11-02T16:58:27.122437",
+            "end_time": "2025-11-02T17:43:01.644725",
+            "duration_minutes": 45,
+            "revenue": 40.0
+        },
+        {
+            "id": 233,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-11-02T16:48:28.105295",
+            "end_time": "2025-11-02T17:32:01.349926",
+            "duration_minutes": 44,
+            "revenue": 40.0
+        },
+        {
+            "id": 232,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T16:43:45.205232",
+            "end_time": "2025-11-02T17:11:56.907563",
+            "duration_minutes": 28,
+            "revenue": 25.0
+        },
+        {
+            "id": 231,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-11-02T16:37:41.209558",
+            "end_time": "2025-11-02T16:54:21.310203",
+            "duration_minutes": 17,
+            "revenue": 25.0
+        },
+        {
+            "id": 230,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-02T16:36:35.186625",
+            "end_time": "2025-11-02T17:05:20.091071",
+            "duration_minutes": 29,
+            "revenue": 25.0
+        },
+        {
+            "id": 229,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-11-02T16:36:09.173902",
+            "end_time": "2025-11-02T17:05:38.113895",
+            "duration_minutes": 29,
+            "revenue": 25.0
+        },
+        {
+            "id": 228,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T16:28:18.875093",
+            "end_time": "2025-11-02T16:57:27.335792",
+            "duration_minutes": 29,
+            "revenue": 25.0
+        },
+        {
+            "id": 226,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-02T16:21:58.996272",
+            "end_time": "2025-11-02T17:09:48.885143",
+            "duration_minutes": 48,
+            "revenue": 40.0
+        },
+        {
+            "id": 225,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-02T16:18:18.954574",
+            "end_time": "2025-11-02T17:17:06.187078",
+            "duration_minutes": 59,
+            "revenue": 40.0
+        },
+        {
+            "id": 224,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-11-02T16:09:03.419785",
+            "end_time": "2025-11-02T17:04:56.077306",
+            "duration_minutes": 56,
+            "revenue": 40.0
+        },
+        {
+            "id": 223,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T16:07:04.173959",
+            "end_time": "2025-11-02T16:33:43.143574",
+            "duration_minutes": 27,
+            "revenue": 25.0
+        },
+        {
+            "id": 222,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-11-02T15:48:18.546501",
+            "end_time": "2025-11-02T16:41:20.424601",
+            "duration_minutes": 53,
+            "revenue": 40.0
+        },
+        {
+            "id": 221,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-02T15:43:23.083159",
+            "end_time": "2025-11-02T16:18:04.943151",
+            "duration_minutes": 35,
+            "revenue": 25.0
+        },
+        {
+            "id": 220,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T15:43:15.073212",
+            "end_time": "2025-11-02T16:20:00.973832",
+            "duration_minutes": 37,
+            "revenue": 25.0
+        },
+        {
+            "id": 219,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T15:19:40.024336",
+            "end_time": "2025-11-02T15:43:53.098249",
+            "duration_minutes": 24,
+            "revenue": 25.0
+        },
+        {
+            "id": 218,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-11-02T14:46:30.419054",
+            "end_time": "2025-11-02T15:18:42.006445",
+            "duration_minutes": 32,
+            "revenue": 25.0
+        },
+        {
+            "id": 217,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-02T14:45:46.400973",
+            "end_time": "2025-11-02T15:18:35.994642",
+            "duration_minutes": 33,
+            "revenue": 25.0
+        },
+        {
+            "id": 216,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-11-02T14:44:12.381383",
+            "end_time": "2025-11-02T15:06:19.132465",
+            "duration_minutes": 22,
+            "revenue": 25.0
+        },
+        {
+            "id": 215,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T14:44:04.372765",
+            "end_time": "2025-11-02T15:07:42.826721",
+            "duration_minutes": 24,
+            "revenue": 25.0
+        },
+        {
+            "id": 214,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-02T14:42:24.347484",
+            "end_time": "2025-11-02T15:27:45.300506",
+            "duration_minutes": 45,
+            "revenue": 40.0
+        },
+        {
+            "id": 213,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-02T14:41:20.781701",
+            "end_time": "2025-11-02T15:28:09.322836",
+            "duration_minutes": 47,
+            "revenue": 40.0
+        },
+        {
+            "id": 212,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T14:40:42.767511",
+            "end_time": "2025-11-02T15:28:01.312311",
+            "duration_minutes": 47,
+            "revenue": 40.0
+        },
+        {
+            "id": 211,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-11-02T14:22:39.333906",
+            "end_time": "2025-11-02T15:21:34.045938",
+            "duration_minutes": 59,
+            "revenue": 40.0
+        },
+        {
+            "id": 210,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T14:16:42.064328",
+            "end_time": "2025-11-02T14:33:06.809156",
+            "duration_minutes": 16,
+            "revenue": 25.0
+        },
+        {
+            "id": 209,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-11-02T14:03:22.522356",
+            "end_time": "2025-11-02T14:53:49.681054",
+            "duration_minutes": 50,
+            "revenue": 40.0
+        },
+        {
+            "id": 208,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-11-02T13:59:36.866010",
+            "end_time": "2025-11-02T14:52:55.663325",
+            "duration_minutes": 53,
+            "revenue": 40.0
+        },
+        {
+            "id": 207,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-02T13:38:27.572232",
+            "end_time": "2025-11-02T14:14:16.038152",
+            "duration_minutes": 36,
+            "revenue": 25.0
+        },
+        {
+            "id": 206,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-11-02T13:32:32.208480",
+            "end_time": "2025-11-02T13:56:54.110088",
+            "duration_minutes": 24,
+            "revenue": 25.0
+        },
+        {
+            "id": 204,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-11-02T13:20:01.738017",
+            "end_time": "2025-11-02T13:50:11.110759",
+            "duration_minutes": 30,
+            "revenue": 25.0
+        },
+        {
+            "id": 203,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-02T13:15:34.435059",
+            "end_time": "2025-11-02T14:13:54.025348",
+            "duration_minutes": 58,
+            "revenue": 40.0
+        },
+        {
+            "id": 202,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T13:06:38.956099",
+            "end_time": "2025-11-02T14:05:02.541896",
+            "duration_minutes": 58,
+            "revenue": 40.0
+        },
+        {
+            "id": 201,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-11-02T12:52:58.090829",
+            "end_time": "2025-11-02T13:52:10.061106",
+            "duration_minutes": 59,
+            "revenue": 40.0
+        },
+        {
+            "id": 200,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-02T12:51:52.073776",
+            "end_time": "2025-11-02T13:52:00.048288",
+            "duration_minutes": 60,
+            "revenue": 40.0
+        },
+        {
+            "id": 199,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T12:51:48.063479",
+            "end_time": "2025-11-02T13:52:22.073312",
+            "duration_minutes": 61,
+            "revenue": 40.0
+        },
+        {
+            "id": 198,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-11-02T12:23:09.398918",
+            "end_time": "2025-11-02T13:13:00.394503",
+            "duration_minutes": 50,
+            "revenue": 40.0
+        },
+        {
+            "id": 197,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-11-02T12:22:57.388306",
+            "end_time": "2025-11-02T13:13:48.411148",
+            "duration_minutes": 51,
+            "revenue": 40.0
+        },
+        {
+            "id": 196,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-11-02T12:20:27.467730",
+            "end_time": "2025-11-02T12:47:47.205107",
+            "duration_minutes": 27,
+            "revenue": 25.0
+        },
+        {
+            "id": 194,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-11-02T12:16:41.404865",
+            "end_time": "2025-11-02T12:54:14.106671",
+            "duration_minutes": 38,
+            "revenue": 25.0
+        },
+        {
+            "id": 193,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-11-02T12:06:12.786082",
+            "end_time": "2025-11-02T12:36:01.341672",
+            "duration_minutes": 30,
+            "revenue": 25.0
+        },
+        {
+            "id": 192,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-11-02T12:06:12.779580",
+            "end_time": "2025-11-02T12:32:51.289503",
+            "duration_minutes": 27,
+            "revenue": 25.0
+        },
+        {
+            "id": 191,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-11-02T12:06:12.766016",
+            "end_time": "2025-11-02T12:33:35.304828",
+            "duration_minutes": 27,
+            "revenue": 25.0
+        },
+        {
+            "id": 190,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-11-02T12:06:12.759496",
+            "end_time": "2025-11-02T12:35:49.330398",
+            "duration_minutes": 30,
+            "revenue": 25.0
+        },
+        {
+            "id": 188,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-11-02T12:06:12.739959",
+            "end_time": "2025-11-02T12:32:11.276131",
+            "duration_minutes": 26,
+            "revenue": 25.0
+        },
+        {
+            "id": 176,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-10-05T16:57:31.605685",
+            "end_time": "2025-10-05T17:33:55.400203",
+            "duration_minutes": 36,
+            "revenue": 25.0
+        },
+        {
+            "id": 175,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-10-05T16:55:15.581974",
+            "end_time": "2025-10-05T17:21:14.475864",
+            "duration_minutes": 26,
+            "revenue": 25.0
+        },
+        {
+            "id": 174,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-10-05T16:54:53.569466",
+            "end_time": "2025-10-05T17:24:17.301119",
+            "duration_minutes": 29,
+            "revenue": 25.0
+        },
+        {
+            "id": 171,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-10-05T16:40:58.917148",
+            "end_time": "2025-10-05T17:19:44.445846",
+            "duration_minutes": 39,
+            "revenue": 25.0
+        },
+        {
+            "id": 169,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-10-05T16:37:39.132999",
+            "end_time": "2025-10-05T17:40:14.104370",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 166,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-10-05T16:20:14.000995",
+            "end_time": "2025-10-05T17:04:11.354214",
+            "duration_minutes": 44,
+            "revenue": 40.0
+        },
+        {
+            "id": 165,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-10-05T16:20:03.990651",
+            "end_time": "2025-10-05T17:03:51.342618",
+            "duration_minutes": 44,
+            "revenue": 40.0
+        },
+        {
+            "id": 163,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-10-05T16:15:23.227334",
+            "end_time": "2025-10-05T17:14:41.436179",
+            "duration_minutes": 59,
+            "revenue": 40.0
+        },
+        {
+            "id": 151,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-10-05T15:38:18.997149",
+            "end_time": "2025-10-05T16:08:40.744494",
+            "duration_minutes": 30,
+            "revenue": 25.0
+        },
+        {
+            "id": 147,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-10-05T15:35:49.598174",
+            "end_time": "2025-10-05T15:53:33.556273",
+            "duration_minutes": 18,
+            "revenue": 25.0
+        },
+        {
+            "id": 145,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-10-05T15:33:39.549722",
+            "end_time": "2025-10-05T16:09:26.769992",
+            "duration_minutes": 36,
+            "revenue": 25.0
+        },
+        {
+            "id": 143,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-10-05T15:14:05.494713",
+            "end_time": "2025-10-05T15:33:23.533830",
+            "duration_minutes": 19,
+            "revenue": 25.0
+        },
+        {
+            "id": 136,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-10-05T14:50:17.747801",
+            "end_time": "2025-10-05T15:10:30.278801",
+            "duration_minutes": 20,
+            "revenue": 0.0
+        },
+        {
+            "id": 125,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-10-05T14:30:02.215591",
+            "end_time": "2025-10-05T15:29:50.528526",
+            "duration_minutes": 60,
+            "revenue": 40.0
+        },
+        {
+            "id": 124,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-10-05T14:27:38.179255",
+            "end_time": "2025-10-05T14:51:47.795245",
+            "duration_minutes": 24,
+            "revenue": 0.0
+        },
+        {
+            "id": 123,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-10-05T14:26:02.558793",
+            "end_time": "2025-10-05T14:52:32.040096",
+            "duration_minutes": 26,
+            "revenue": 0.0
+        },
+        {
+            "id": 116,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-10-05T14:05:21.286226",
+            "end_time": "2025-10-05T14:24:42.508285",
+            "duration_minutes": 19,
+            "revenue": 0.0
+        },
+        {
+            "id": 115,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-10-05T14:03:23.263330",
+            "end_time": "2025-10-05T14:28:12.195535",
+            "duration_minutes": 25,
+            "revenue": 0.0
+        },
+        {
+            "id": 114,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-10-05T14:02:43.244030",
+            "end_time": "2025-10-05T14:23:36.477401",
+            "duration_minutes": 21,
+            "revenue": 0.0
+        },
+        {
+            "id": 113,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-10-05T14:01:16.019219",
+            "end_time": "2025-10-05T14:35:45.950408",
+            "duration_minutes": 34,
+            "revenue": 25.0
+        },
+        {
+            "id": 64,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-10-05T11:53:20.664197",
+            "end_time": "2025-10-05T12:20:56.890662",
+            "duration_minutes": 28,
+            "revenue": 30.0
+        },
+        {
+            "id": 53,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-10-04T23:40:13.038572",
+            "end_time": "2025-10-05T10:18:53.586720",
+            "duration_minutes": 639,
+            "revenue": 100.0
+        },
+        {
+            "id": 52,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-10-04T23:40:13.029385",
+            "end_time": "2025-10-05T10:18:53.577712",
+            "duration_minutes": 639,
+            "revenue": 60.0
         },
         {
             "id": 42,
@@ -203,128 +847,6 @@
             "end_time": "2025-08-12T20:28:07.819891",
             "duration_minutes": 31,
             "revenue": null
-        }
-    ],
-    "karts": [
-        {
-            "mac_address": "DC:2C:6E:9F:99:9F",
-            "name": "Kart-55",
-            "status": "IN_USE",
-            "last_seen": 1759676600.3238728,
-            "last_known_rssi": -92,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7115736,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:99:9A",
-            "name": "Kart-26",
-            "status": "IN_USE",
-            "last_seen": 1759676602.3241756,
-            "last_known_rssi": -71,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7115736,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9D:30:9F",
-            "name": "Kart-15",
-            "status": "IN_USE",
-            "last_seen": 1759676602.3241622,
-            "last_known_rssi": -82,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:99:B4",
-            "name": "Kart-43",
-            "status": "IN_USE",
-            "last_seen": 1759676576.3208742,
-            "last_known_rssi": -80,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9D:22:59",
-            "name": "Kart-42",
-            "status": "IN_USE",
-            "last_seen": 1759676598.3232129,
-            "last_known_rssi": -78,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:9C:8C",
-            "name": "Kart-47",
-            "status": "IN_USE",
-            "last_seen": 1759676578.320472,
-            "last_known_rssi": -92,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:98:BE",
-            "name": "Kart-25",
-            "status": "IN_USE",
-            "last_seen": 1759676029.0373516,
-            "last_known_rssi": -79,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:98:C7",
-            "name": "Kart-46",
-            "status": "IN_USE",
-            "last_seen": 1759676600.3238826,
-            "last_known_rssi": -82,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:98:3E",
-            "name": "Kart-13",
-            "status": "IN_USE",
-            "last_seen": 1759676602.3241715,
-            "last_known_rssi": -81,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
-        },
-        {
-            "mac_address": "DC:2C:6E:9F:98:64",
-            "name": "Kart-44",
-            "status": "IN_USE",
-            "last_seen": 1759676033.0378256,
-            "last_known_rssi": -91,
-            "is_virtual": false,
-            "notes": "",
-            "time_entered_await": 1764588378.7126012,
-            "category": "Kart mare",
-            "is_online": false
         }
     ]
 }
