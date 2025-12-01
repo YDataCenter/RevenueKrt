@@ -1,9 +1,89 @@
 {
-    "total_revenue": 1480.0,
-    "total_rides": 35,
-    "total_minutes": 55150,
-    "average_ride_value": 42.285714285714285,
+    "total_revenue": 1880.0,
+    "total_rides": 45,
+    "total_minutes": 55780,
+    "average_ride_value": 41.77777777777778,
     "rides": [
+        {
+            "id": 152,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-12-01T15:41:23.309353",
+            "end_time": "2025-12-01T16:44:21.495797",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 151,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-12-01T15:41:23.304637",
+            "end_time": "2025-12-01T16:44:21.489782",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 150,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-12-01T15:41:23.300142",
+            "end_time": "2025-12-01T16:44:21.484659",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 149,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-12-01T15:41:23.296138",
+            "end_time": "2025-12-01T16:44:21.478646",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 148,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-12-01T15:41:23.291873",
+            "end_time": "2025-12-01T16:44:21.472898",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 147,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-12-01T15:41:23.287781",
+            "end_time": "2025-12-01T16:44:21.466521",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 146,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-12-01T15:41:23.283726",
+            "end_time": "2025-12-01T16:44:21.461484",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 145,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-12-01T15:41:23.277815",
+            "end_time": "2025-12-01T16:44:21.455453",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 144,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-12-01T15:41:23.265797",
+            "end_time": "2025-12-01T16:44:21.450293",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
+        {
+            "id": 143,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-12-01T15:41:23.261201",
+            "end_time": "2025-12-01T16:44:21.444074",
+            "duration_minutes": 63,
+            "revenue": 40.0
+        },
         {
             "id": 142,
             "mac_address": "DC:2C:6E:9F:98:64",
@@ -289,7 +369,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
             "name": "Kart-55",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676600.3238728,
             "last_known_rssi": -92,
             "is_virtual": false,
@@ -301,7 +381,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:9A",
             "name": "Kart-26",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241756,
             "last_known_rssi": -71,
             "is_virtual": false,
@@ -313,7 +393,7 @@
         {
             "mac_address": "DC:2C:6E:9D:30:9F",
             "name": "Kart-15",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241622,
             "last_known_rssi": -82,
             "is_virtual": false,
@@ -325,7 +405,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
             "name": "Kart-43",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676576.3208742,
             "last_known_rssi": -80,
             "is_virtual": false,
@@ -337,7 +417,7 @@
         {
             "mac_address": "DC:2C:6E:9D:22:59",
             "name": "Kart-42",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676598.3232129,
             "last_known_rssi": -78,
             "is_virtual": false,
@@ -349,7 +429,7 @@
         {
             "mac_address": "DC:2C:6E:9F:9C:8C",
             "name": "Kart-47",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676578.320472,
             "last_known_rssi": -92,
             "is_virtual": false,
@@ -361,7 +441,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:BE",
             "name": "Kart-25",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676029.0373516,
             "last_known_rssi": -79,
             "is_virtual": false,
@@ -373,7 +453,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:C7",
             "name": "Kart-46",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676600.3238826,
             "last_known_rssi": -82,
             "is_virtual": false,
@@ -385,7 +465,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:3E",
             "name": "Kart-13",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676602.3241715,
             "last_known_rssi": -81,
             "is_virtual": false,
@@ -397,7 +477,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:64",
             "name": "Kart-44",
-            "status": "IN_USE",
+            "status": "STATIONARY",
             "last_seen": 1759676033.0378256,
             "last_known_rssi": -91,
             "is_virtual": false,
