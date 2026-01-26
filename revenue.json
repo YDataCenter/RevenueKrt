@@ -1,8 +1,8 @@
 {
-    "total_revenue": 3930.0,
-    "total_rides": 114,
-    "total_minutes": 8994,
-    "average_ride_value": 34.473684210526315,
+    "total_revenue": 4330.0,
+    "total_rides": 124,
+    "total_minutes": 466384,
+    "average_ride_value": 34.91935483870968,
     "kart_names": {
         "DC:2C:6E:9F:99:9F": "Kart-55",
         "DC:2C:6E:9F:99:9A": "Kart-26",
@@ -16,6 +16,86 @@
         "DC:2C:6E:9F:98:64": "Kart-44"
     },
     "rides": [
+        {
+            "id": 419,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2025-12-25T14:38:05.637281",
+            "end_time": "2026-01-26T08:57:01.595547",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 418,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2025-12-25T14:38:05.631197",
+            "end_time": "2026-01-26T08:57:01.589277",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 417,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2025-12-25T14:38:05.625076",
+            "end_time": "2026-01-26T08:57:01.582948",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 416,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2025-12-25T14:38:05.611446",
+            "end_time": "2026-01-26T08:57:01.576069",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 415,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2025-12-25T14:38:05.605248",
+            "end_time": "2026-01-26T08:57:01.569782",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 414,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2025-12-25T14:38:05.598936",
+            "end_time": "2026-01-26T08:57:01.563474",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 413,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2025-12-25T14:38:05.585105",
+            "end_time": "2026-01-26T08:57:01.557151",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 412,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2025-12-25T14:38:05.578888",
+            "end_time": "2026-01-26T08:57:01.550815",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 411,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2025-12-25T14:38:05.572578",
+            "end_time": "2026-01-26T08:57:01.544405",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
+        {
+            "id": 410,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2025-12-25T14:38:05.556994",
+            "end_time": "2026-01-26T08:57:01.537873",
+            "duration_minutes": 45739,
+            "revenue": 40.0
+        },
         {
             "id": 409,
             "mac_address": "DC:2C:6E:9F:98:64",
