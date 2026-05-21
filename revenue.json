@@ -845,7 +845,7 @@
         {
             "mac_address": "DC:2C:6E:9D:30:9F",
             "name": "Kart-309F",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779389317.637981,
             "last_known_rssi": -89,
             "is_virtual": false,
@@ -881,7 +881,7 @@
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
             "name": "Kart-99B4",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779389317.6379786,
             "last_known_rssi": -91,
             "is_virtual": false,
@@ -893,7 +893,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:64",
             "name": "Kart-9864",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779389319.6383235,
             "last_known_rssi": -79,
             "is_virtual": false,
@@ -930,8 +930,8 @@
             "mac_address": "DF:93:E0:0C:B3:3F",
             "name": "ciclo mic albasuru 2",
             "status": "STATIONARY",
-            "last_seen": 1779389465.7735019,
-            "last_known_rssi": -87,
+            "last_seen": 1779389479.87413,
+            "last_known_rssi": -76,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
