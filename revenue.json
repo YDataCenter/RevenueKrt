@@ -876,7 +876,7 @@
             "notes": "",
             "time_entered_await": 1779387951.0150332,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
@@ -930,8 +930,8 @@
             "mac_address": "DF:93:E0:0C:B3:3F",
             "name": "ciclo mic albasuru 2",
             "status": "STATIONARY",
-            "last_seen": 1779389400.438198,
-            "last_known_rssi": -76,
+            "last_seen": 1779389417.7355127,
+            "last_known_rssi": -84,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
