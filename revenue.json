@@ -778,8 +778,8 @@
             "mac_address": "F3:DA:C9:5C:71:B6",
             "name": "Kart-71B6",
             "status": "STATIONARY",
-            "last_seen": 1779387128.7748835,
-            "last_known_rssi": -72,
+            "last_seen": 1779387141.8317194,
+            "last_known_rssi": -70,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779386936.81434,
@@ -801,7 +801,7 @@
         {
             "mac_address": "DC:2C:6E:9D:22:59",
             "name": "Kart-2259",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779386981.9457679,
             "last_known_rssi": -78,
             "is_virtual": false,
@@ -826,8 +826,8 @@
             "mac_address": "DC:2C:6E:9F:9C:8C",
             "name": "Kart-9C8C",
             "status": "STATIONARY",
-            "last_seen": 1779387065.43702,
-            "last_known_rssi": -81,
+            "last_seen": 1779387133.8119028,
+            "last_known_rssi": -82,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779385432.4369247,
@@ -844,7 +844,7 @@
             "notes": "",
             "time_entered_await": 1779385383.829284,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
@@ -856,7 +856,7 @@
             "notes": "",
             "time_entered_await": 1779385345.2325385,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:99:9A",
@@ -873,9 +873,9 @@
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
             "name": "Kart-99B4",
-            "status": "IN_USE",
-            "last_seen": 1779387067.4372847,
-            "last_known_rssi": -80,
+            "status": "STATIONARY",
+            "last_seen": 1779387137.8210647,
+            "last_known_rssi": -95,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779386923.7543797,
@@ -886,8 +886,8 @@
             "mac_address": "DC:2C:6E:9F:98:64",
             "name": "Kart-9864",
             "status": "STATIONARY",
-            "last_seen": 1779387121.1841285,
-            "last_known_rssi": -74,
+            "last_seen": 1779387133.8119001,
+            "last_known_rssi": -78,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
