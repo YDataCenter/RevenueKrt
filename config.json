@@ -42,7 +42,7 @@
             "notes": "",
             "time_entered_await": 0.0,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         }
     },
     "config_updated_at": "2026-04-30T09:35:13.941165",
