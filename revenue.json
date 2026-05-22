@@ -817,7 +817,7 @@
         {
             "mac_address": "F3:DA:C9:5C:71:B6",
             "name": "Kart-71B6",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779388615.55185,
             "last_known_rssi": -74,
             "is_virtual": false,
@@ -829,19 +829,19 @@
         {
             "mac_address": "DC:2C:6E:9F:98:C7",
             "name": "Kart-98C7",
-            "status": "AWAITING_RIDE",
-            "last_seen": 1779388593.8132846,
-            "last_known_rssi": -98,
+            "status": "IN_USE",
+            "last_seen": 1779454725.5786943,
+            "last_known_rssi": -78,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.0175645,
             "category": "Implicit",
-            "is_online": false
+            "is_online": true
         },
         {
             "mac_address": "DC:2C:6E:9D:22:59",
             "name": "Kart-2259",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779388602.3553765,
             "last_known_rssi": -81,
             "is_virtual": false,
@@ -853,7 +853,7 @@
         {
             "mac_address": "DC:2C:6E:9F:98:3E",
             "name": "Kart-983E",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779388553.972193,
             "last_known_rssi": -82,
             "is_virtual": false,
@@ -865,21 +865,21 @@
         {
             "mac_address": "DC:2C:6E:9F:9C:8C",
             "name": "Kart-9C8C",
-            "status": "AWAITING_RIDE",
-            "last_seen": 1779388615.5518413,
-            "last_known_rssi": -98,
+            "status": "IN_USE",
+            "last_seen": 1779454725.5787098,
+            "last_known_rssi": -75,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.017673,
             "category": "Implicit",
-            "is_online": false
+            "is_online": true
         },
         {
             "mac_address": "DC:2C:6E:9D:30:9F",
             "name": "Kart-309F",
-            "status": "AWAITING_RIDE",
-            "last_seen": 1779449800.0175414,
-            "last_known_rssi": -72,
+            "status": "IN_USE",
+            "last_seen": 1779454725.5787015,
+            "last_known_rssi": -76,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.017728,
@@ -889,19 +889,19 @@
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
             "name": "Kart-999F",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779449800.0175464,
             "last_known_rssi": -79,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.0177712,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:99:9A",
             "name": "Kart-999A",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779386700.513105,
             "last_known_rssi": -91,
             "is_virtual": false,
@@ -913,31 +913,31 @@
         {
             "mac_address": "DC:2C:6E:9F:99:B4",
             "name": "Kart-99B4",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779449800.0175314,
             "last_known_rssi": -78,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.017827,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:98:64",
             "name": "Kart-9864",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779449802.0183022,
             "last_known_rssi": -73,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.0178792,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:98:BE",
             "name": "Kart-98BE",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 1779388455.0170493,
             "last_known_rssi": -85,
             "is_virtual": false,
@@ -949,7 +949,7 @@
         {
             "mac_address": "F3DAC95C71B6",
             "name": "ciclo mic albastru 1",
-            "status": "AWAITING_RIDE",
+            "status": "IN_USE",
             "last_seen": 0.0,
             "last_known_rssi": -100,
             "is_virtual": false,
@@ -962,8 +962,8 @@
             "mac_address": "DF:93:E0:0C:B3:3F",
             "name": "ciclo mic albasuru 2",
             "status": "STATIONARY",
-            "last_seen": 1779449802.0183134,
-            "last_known_rssi": -59,
+            "last_seen": 1779454725.5787072,
+            "last_known_rssi": -61,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
