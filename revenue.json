@@ -1130,13 +1130,13 @@
             "mac_address": "F3:DA:C9:5C:71:B6",
             "name": "ciclo mic verde 1",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227154,
+            "last_seen": 1779616986.4346983,
             "last_known_rssi": -48,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779449798.0174875,
             "category": "ciclofan mic",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:98:C7",
@@ -1160,7 +1160,7 @@
             "notes": "",
             "time_entered_await": 1779449798.0176187,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:98:3E",
@@ -1184,7 +1184,7 @@
             "notes": "",
             "time_entered_await": 1779616969.7203622,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9D:30:9F",
@@ -1250,8 +1250,8 @@
             "mac_address": "DC:2C:6E:9F:98:BE",
             "name": "Kart-98BE",
             "status": "AWAITING_RIDE",
-            "last_seen": 1779467223.6317415,
-            "last_known_rssi": -81,
+            "last_seen": 1779616986.4346826,
+            "last_known_rssi": -75,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779616969.720586,
@@ -1274,13 +1274,13 @@
             "mac_address": "DF:93:E0:0C:B3:3F",
             "name": "ciclo mic albasuru 2",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227223,
-            "last_known_rssi": -69,
+            "last_seen": 1779616986.4346957,
+            "last_known_rssi": -71,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "ciclofan mic",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "CD:9B:66:2F:03:4E",
@@ -1298,49 +1298,49 @@
             "mac_address": "C2:88:04:73:34:77",
             "name": "ciclo mic mov 1",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227118,
+            "last_seen": 1779616986.4346943,
             "last_known_rssi": -59,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "ciclofan mic",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "D8:09:CD:28:1F:78",
             "name": "ciclo mic verde 2",
-            "status": "AWAITING_RIDE",
-            "last_seen": 1779616973.722707,
-            "last_known_rssi": -63,
+            "status": "STATIONARY",
+            "last_seen": 1779616986.434701,
+            "last_known_rssi": -49,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779616969.72066,
             "category": "ciclofan mic",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "D8:13:63:A2:BB:63",
             "name": "ciclo mare verde 1",
             "status": "STATIONARY",
-            "last_seen": 1779616973.722717,
-            "last_known_rssi": -71,
+            "last_seen": 1779616986.4346995,
+            "last_known_rssi": -62,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "ciclofan mare",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "ED:96:CB:9D:B1:49",
             "name": "ciclo mare mov 1",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227209,
+            "last_seen": 1779616984.4346993,
             "last_known_rssi": -60,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "ciclofan mare",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "49:42:63:E8:55:5D",
@@ -1358,49 +1358,49 @@
             "mac_address": "CC:0A:EC:9F:0C:C9",
             "name": "duo chopper 70",
             "status": "STATIONARY",
-            "last_seen": 1779616969.720017,
-            "last_known_rssi": -75,
+            "last_seen": 1779616986.434697,
+            "last_known_rssi": -69,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779466541.1861646,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "F3:60:C7:30:0A:F4",
             "name": "duo chopper 72",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227237,
-            "last_known_rssi": -68,
+            "last_seen": 1779616984.4347303,
+            "last_known_rssi": -77,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779466553.7483523,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "F4:7E:84:01:6E:4B",
             "name": "duo chopper 64",
             "status": "STATIONARY",
-            "last_seen": 1779616973.7227097,
-            "last_known_rssi": -74,
+            "last_seen": 1779616986.4346802,
+            "last_known_rssi": -76,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "EA:1E:1F:EA:9E:FD",
             "name": "duo chopper 69",
             "status": "STATIONARY",
-            "last_seen": 1779616971.7211967,
-            "last_known_rssi": -77,
+            "last_seen": 1779616986.4346883,
+            "last_known_rssi": -76,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "F8:4F:25:08:D3:39",
@@ -1418,25 +1418,25 @@
             "mac_address": "E8:54:BA:1B:70:09",
             "name": "duo chopper 71",
             "status": "STATIONARY",
-            "last_seen": 1779616969.7200253,
-            "last_known_rssi": -76,
+            "last_seen": 1779616986.4346724,
+            "last_known_rssi": -74,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779465516.5657413,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "D6:E7:27:18:F3:16",
             "name": "duo chopper 68",
             "status": "STATIONARY",
-            "last_seen": 1779616973.722719,
-            "last_known_rssi": -75,
+            "last_seen": 1779616986.434693,
+            "last_known_rssi": -70,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "C5:C4:AE:8F:95:3F",
@@ -1454,56 +1454,56 @@
             "mac_address": "C6:2B:88:BA:A2:9E",
             "name": "duo chopper 65",
             "status": "STATIONARY",
-            "last_seen": 1779616973.722714,
-            "last_known_rssi": -70,
+            "last_seen": 1779616984.4347324,
+            "last_known_rssi": -73,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "D6:17:96:E3:04:58",
             "name": "duo chopper 61",
             "status": "STATIONARY",
-            "last_seen": 1779616969.7200058,
-            "last_known_rssi": -75,
+            "last_seen": 1779616980.434645,
+            "last_known_rssi": -71,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "FA:2A:AE:6A:B6:37",
             "name": "chopper 37",
-            "status": "AWAITING_RIDE",
-            "last_seen": 1779616971.7212055,
-            "last_known_rssi": -60,
+            "status": "STATIONARY",
+            "last_seen": 1779616984.4347394,
+            "last_known_rssi": -68,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779616969.720784,
             "category": "Kart mare",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "F9:A9:24:3E:E4:DC",
             "name": "duo chopper 62",
             "status": "STATIONARY",
-            "last_seen": 1779616971.7212014,
-            "last_known_rssi": -74,
+            "last_seen": 1779616978.4265826,
+            "last_known_rssi": -80,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "duo chopper",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "E1:1B:5F:A2:2C:69",
             "name": "duo chopper 63",
             "status": "AWAITING_RIDE",
-            "last_seen": 1779467219.6297534,
-            "last_known_rssi": -81,
+            "last_seen": 1779616984.4347262,
+            "last_known_rssi": -90,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 1779616969.7208211,
@@ -1514,13 +1514,13 @@
             "mac_address": "48:E6:95:20:EA:AA",
             "name": "Kart-EAAA",
             "status": "STATIONARY",
-            "last_seen": 1779616971.7212076,
-            "last_known_rssi": -61,
+            "last_seen": 1779616984.434742,
+            "last_known_rssi": -57,
             "is_virtual": false,
             "notes": "",
             "time_entered_await": 0.0,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         }
     ]
 }
