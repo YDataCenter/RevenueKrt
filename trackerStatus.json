@@ -1,9 +1,8 @@
 {
-    "last_seen": "2026-05-26T09:32:59.582093",
+    "last_seen": "2026-05-24T19:07:11.388389",
     "online_karts": 0,
-    "total_karts": 1,
-    "today_revenue": 0,
-    "config_updated_at": "2026-04-30T09:35:13.941165",
-    "version": "1.0.0",
-    "interface_url": "http://81.196.154.67:8000"
+    "total_karts": 32,
+    "today_revenue": 2460.0,
+    "config_updated_at": "2026-05-22T19:27:06.926651",
+    "version": "1.0.0"
 }
