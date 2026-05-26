@@ -1,95 +1,1039 @@
 {
-    "total_revenue": 3480.0,
-    "total_rides": 86,
-    "total_minutes": 2218318,
-    "average_ride_value": 40.46511627906977,
+    "total_revenue": 7025.0,
+    "total_rides": 204,
+    "total_minutes": 2229071,
+    "average_ride_value": 34.43627450980392,
     "rides": [
         {
-            "id": 213,
-            "mac_address": "F3:DA:C9:5C:71:B6",
-            "start_time": "2026-05-21T13:01:10.846622",
-            "end_time": "2026-05-26T09:28:48.754555",
-            "duration_minutes": 6988,
+            "id": 587,
+            "mac_address": "C2:88:04:73:34:77",
+            "start_time": "2026-05-24T18:34:22.568210",
+            "end_time": "2026-05-24T19:01:20.506086",
+            "duration_minutes": 27,
+            "revenue": 75.0
+        },
+        {
+            "id": 585,
+            "mac_address": "C5:C4:AE:8F:95:3F",
+            "start_time": "2026-05-24T18:25:35.265534",
+            "end_time": "2026-05-24T18:42:32.058268",
+            "duration_minutes": 17,
+            "revenue": 40.0
+        },
+        {
+            "id": 584,
+            "mac_address": "CC:0A:EC:9F:0C:C9",
+            "start_time": "2026-05-24T18:25:35.258500",
+            "end_time": "2026-05-24T18:42:17.284333",
+            "duration_minutes": 17,
+            "revenue": 40.0
+        },
+        {
+            "id": 583,
+            "mac_address": "49:42:63:E8:55:5D",
+            "start_time": "2026-05-24T18:25:35.252360",
+            "end_time": "2026-05-24T19:06:59.302796",
+            "duration_minutes": 41,
             "revenue": 0.0
+        },
+        {
+            "id": 582,
+            "mac_address": "ED:96:CB:9D:B1:49",
+            "start_time": "2026-05-24T18:25:35.246112",
+            "end_time": "2026-05-24T18:58:34.221566",
+            "duration_minutes": 33,
+            "revenue": 100.0
+        },
+        {
+            "id": 581,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-24T18:25:35.239859",
+            "end_time": "2026-05-24T19:06:59.268102",
+            "duration_minutes": 41,
+            "revenue": 110.0
+        },
+        {
+            "id": 580,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-24T18:25:35.233866",
+            "end_time": "2026-05-24T18:47:25.186583",
+            "duration_minutes": 22,
+            "revenue": 0.0
+        },
+        {
+            "id": 579,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-24T18:25:35.227891",
+            "end_time": "2026-05-24T18:45:42.820867",
+            "duration_minutes": 20,
+            "revenue": 0.0
+        },
+        {
+            "id": 577,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-24T18:25:35.215916",
+            "end_time": "2026-05-24T18:45:42.814531",
+            "duration_minutes": 20,
+            "revenue": 0.0
+        },
+        {
+            "id": 576,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2026-05-24T18:25:35.209929",
+            "end_time": "2026-05-24T18:43:45.864108",
+            "duration_minutes": 18,
+            "revenue": 0.0
+        },
+        {
+            "id": 573,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-24T18:25:35.191841",
+            "end_time": "2026-05-24T18:45:50.484861",
+            "duration_minutes": 20,
+            "revenue": 0.0
+        },
+        {
+            "id": 572,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-05-24T18:25:35.185712",
+            "end_time": "2026-05-24T18:43:14.367762",
+            "duration_minutes": 18,
+            "revenue": 0.0
+        },
+        {
+            "id": 571,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-05-24T18:25:35.176413",
+            "end_time": "2026-05-24T18:53:49.420006",
+            "duration_minutes": 28,
+            "revenue": 0.0
+        },
+        {
+            "id": 551,
+            "mac_address": "C5:C4:AE:8F:95:3F",
+            "start_time": "2026-05-24T17:49:09.189852",
+            "end_time": "2026-05-24T18:13:51.637254",
+            "duration_minutes": 25,
+            "revenue": 40.0
+        },
+        {
+            "id": 543,
+            "mac_address": "C6:2B:88:BA:A2:9E",
+            "start_time": "2026-05-24T17:33:35.975174",
+            "end_time": "2026-05-24T17:58:22.095201",
+            "duration_minutes": 25,
+            "revenue": 40.0
+        },
+        {
+            "id": 538,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-24T17:27:28.152769",
+            "end_time": "2026-05-24T17:49:09.173560",
+            "duration_minutes": 22,
+            "revenue": 0.0
+        },
+        {
+            "id": 537,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-24T17:27:08.012700",
+            "end_time": "2026-05-24T17:58:24.410461",
+            "duration_minutes": 31,
+            "revenue": 0.0
+        },
+        {
+            "id": 536,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T17:22:42.890904",
+            "end_time": "2026-05-24T18:02:51.998537",
+            "duration_minutes": 40,
+            "revenue": 40.0
+        },
+        {
+            "id": 535,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-05-24T17:22:40.880881",
+            "end_time": "2026-05-24T17:48:18.249034",
+            "duration_minutes": 26,
+            "revenue": 0.0
+        },
+        {
+            "id": 533,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-24T17:19:11.320910",
+            "end_time": "2026-05-24T17:55:18.037738",
+            "duration_minutes": 36,
+            "revenue": 0.0
+        },
+        {
+            "id": 532,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2026-05-24T17:19:03.307675",
+            "end_time": "2026-05-24T17:46:58.234283",
+            "duration_minutes": 28,
+            "revenue": 0.0
+        },
+        {
+            "id": 529,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-24T17:11:10.129461",
+            "end_time": "2026-05-24T18:02:16.972231",
+            "duration_minutes": 51,
+            "revenue": 0.0
+        },
+        {
+            "id": 524,
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "start_time": "2026-05-24T17:04:12.686982",
+            "end_time": "2026-05-24T17:42:57.626838",
+            "duration_minutes": 39,
+            "revenue": 40.0
+        },
+        {
+            "id": 521,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-24T16:58:17.102936",
+            "end_time": "2026-05-24T18:02:51.989382",
+            "duration_minutes": 65,
+            "revenue": 0.0
+        },
+        {
+            "id": 518,
+            "mac_address": "FA:2A:AE:6A:B6:37",
+            "start_time": "2026-05-24T16:55:53.802100",
+            "end_time": "2026-05-24T18:04:08.069392",
+            "duration_minutes": 68,
+            "revenue": 45.0
+        },
+        {
+            "id": 516,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-05-24T16:49:43.300858",
+            "end_time": "2026-05-24T17:26:25.687707",
+            "duration_minutes": 37,
+            "revenue": 0.0
+        },
+        {
+            "id": 514,
+            "mac_address": "D8:13:63:A2:BB:63",
+            "start_time": "2026-05-24T16:44:17.305460",
+            "end_time": "2026-05-24T17:34:36.374087",
+            "duration_minutes": 50,
+            "revenue": 140.0
+        },
+        {
+            "id": 513,
+            "mac_address": "E1:1B:5F:A2:2C:69",
+            "start_time": "2026-05-24T16:41:55.689368",
+            "end_time": "2026-05-24T17:04:44.976025",
+            "duration_minutes": 23,
+            "revenue": 40.0
+        },
+        {
+            "id": 508,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-05-24T16:28:19.583927",
+            "end_time": "2026-05-24T16:47:04.115745",
+            "duration_minutes": 19,
+            "revenue": 0.0
+        },
+        {
+            "id": 505,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-24T16:26:49.019264",
+            "end_time": "2026-05-24T17:22:44.900336",
+            "duration_minutes": 56,
+            "revenue": 0.0
+        },
+        {
+            "id": 503,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-24T16:26:47.003279",
+            "end_time": "2026-05-24T16:52:24.206580",
+            "duration_minutes": 26,
+            "revenue": 0.0
+        },
+        {
+            "id": 502,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2026-05-24T16:26:08.562441",
+            "end_time": "2026-05-24T17:27:08.022448",
+            "duration_minutes": 61,
+            "revenue": 0.0
+        },
+        {
+            "id": 501,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2026-05-24T16:26:08.555924",
+            "end_time": "2026-05-24T16:52:24.197034",
+            "duration_minutes": 26,
+            "revenue": 0.0
+        },
+        {
+            "id": 500,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-05-24T16:26:08.546782",
+            "end_time": "2026-05-24T17:03:43.891822",
+            "duration_minutes": 38,
+            "revenue": 0.0
+        },
+        {
+            "id": 499,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2026-05-24T16:26:02.535740",
+            "end_time": "2026-05-24T17:44:09.745255",
+            "duration_minutes": 78,
+            "revenue": 0.0
+        },
+        {
+            "id": 498,
+            "mac_address": "DF:93:E0:0C:B3:3F",
+            "start_time": "2026-05-24T16:16:16.201946",
+            "end_time": "2026-05-24T16:33:36.750490",
+            "duration_minutes": 17,
+            "revenue": 75.0
+        },
+        {
+            "id": 497,
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "start_time": "2026-05-24T16:05:34.756848",
+            "end_time": "2026-05-24T16:59:13.655916",
+            "duration_minutes": 54,
+            "revenue": 60.0
+        },
+        {
+            "id": 496,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-24T16:05:14.404975",
+            "end_time": "2026-05-24T16:55:23.603635",
+            "duration_minutes": 50,
+            "revenue": 0.0
+        },
+        {
+            "id": 495,
+            "mac_address": "C2:88:04:73:34:77",
+            "start_time": "2026-05-24T16:03:04.679011",
+            "end_time": "2026-05-24T16:41:24.441504",
+            "duration_minutes": 38,
+            "revenue": 75.0
+        },
+        {
+            "id": 494,
+            "mac_address": "ED:96:CB:9D:B1:49",
+            "start_time": "2026-05-24T16:02:39.301581",
+            "end_time": "2026-05-24T16:52:46.836311",
+            "duration_minutes": 50,
+            "revenue": 140.0
+        },
+        {
+            "id": 491,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T15:38:40.488064",
+            "end_time": "2026-05-24T16:39:45.886355",
+            "duration_minutes": 61,
+            "revenue": 60.0
+        },
+        {
+            "id": 490,
+            "mac_address": "D6:17:96:E3:04:58",
+            "start_time": "2026-05-24T15:34:46.118193",
+            "end_time": "2026-05-24T16:10:37.703904",
+            "duration_minutes": 36,
+            "revenue": 40.0
+        },
+        {
+            "id": 489,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-24T15:33:45.918986",
+            "end_time": "2026-05-24T17:00:03.748461",
+            "duration_minutes": 86,
+            "revenue": 0.0
+        },
+        {
+            "id": 488,
+            "mac_address": "72:67:CC:01:4C:C1",
+            "start_time": "2026-05-24T15:30:24.143190",
+            "end_time": "2026-05-24T16:56:03.609146",
+            "duration_minutes": 86,
+            "revenue": 0.0
+        },
+        {
+            "id": 487,
+            "mac_address": "CD:9B:66:2F:03:4E",
+            "start_time": "2026-05-24T15:22:41.335738",
+            "end_time": "2026-05-24T15:52:33.473730",
+            "duration_minutes": 30,
+            "revenue": 75.0
+        },
+        {
+            "id": 486,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-05-24T15:18:57.869217",
+            "end_time": "2026-05-24T15:48:06.102140",
+            "duration_minutes": 29,
+            "revenue": 0.0
+        },
+        {
+            "id": 485,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-24T15:16:52.048646",
+            "end_time": "2026-05-24T16:21:01.239118",
+            "duration_minutes": 64,
+            "revenue": 0.0
+        },
+        {
+            "id": 482,
+            "mac_address": "C5:C4:AE:8F:95:3F",
+            "start_time": "2026-05-24T15:03:21.434035",
+            "end_time": "2026-05-24T15:34:18.402823",
+            "duration_minutes": 31,
+            "revenue": 40.0
+        },
+        {
+            "id": 478,
+            "mac_address": "ED:96:CB:9D:B1:49",
+            "start_time": "2026-05-24T14:56:53.292960",
+            "end_time": "2026-05-24T15:19:16.238301",
+            "duration_minutes": 22,
+            "revenue": 100.0
+        },
+        {
+            "id": 475,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T14:53:21.060729",
+            "end_time": "2026-05-24T15:30:28.155206",
+            "duration_minutes": 37,
+            "revenue": 40.0
+        },
+        {
+            "id": 473,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-24T14:51:06.932801",
+            "end_time": "2026-05-24T15:18:51.858754",
+            "duration_minutes": 28,
+            "revenue": 0.0
+        },
+        {
+            "id": 472,
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "start_time": "2026-05-24T14:49:23.084155",
+            "end_time": "2026-05-24T15:12:28.613260",
+            "duration_minutes": 23,
+            "revenue": 40.0
+        },
+        {
+            "id": 471,
+            "mac_address": "D6:17:96:E3:04:58",
+            "start_time": "2026-05-24T14:33:40.334393",
+            "end_time": "2026-05-24T14:52:35.072641",
+            "duration_minutes": 19,
+            "revenue": 40.0
+        },
+        {
+            "id": 470,
+            "mac_address": "FF:C3:03:11:3C:30",
+            "start_time": "2026-05-24T14:32:33.187989",
+            "end_time": "2026-05-24T14:52:52.316694",
+            "duration_minutes": 20,
+            "revenue": 0.0
+        },
+        {
+            "id": 469,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T14:07:20.933515",
+            "end_time": "2026-05-24T14:29:50.379450",
+            "duration_minutes": 22,
+            "revenue": 40.0
+        },
+        {
+            "id": 468,
+            "mac_address": "D8:13:63:A2:BB:63",
+            "start_time": "2026-05-24T13:58:57.438641",
+            "end_time": "2026-05-24T16:28:39.241760",
+            "duration_minutes": 150,
+            "revenue": 140.0
+        },
+        {
+            "id": 467,
+            "mac_address": "CD:9B:66:2F:03:4E",
+            "start_time": "2026-05-24T13:58:31.501335",
+            "end_time": "2026-05-24T14:23:49.657019",
+            "duration_minutes": 25,
+            "revenue": 75.0
+        },
+        {
+            "id": 460,
+            "mac_address": "D6:17:96:E3:04:58",
+            "start_time": "2026-05-24T13:30:29.923884",
+            "end_time": "2026-05-24T14:29:34.585717",
+            "duration_minutes": 59,
+            "revenue": 60.0
+        },
+        {
+            "id": 456,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T13:30:02.680496",
+            "end_time": "2026-05-24T13:57:57.880265",
+            "duration_minutes": 28,
+            "revenue": 40.0
+        },
+        {
+            "id": 455,
+            "mac_address": "49:42:63:E8:55:5D",
+            "start_time": "2026-05-24T13:30:02.674511",
+            "end_time": "2026-05-24T18:23:06.777025",
+            "duration_minutes": 293,
+            "revenue": 0.0
+        },
+        {
+            "id": 453,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-24T13:30:02.662521",
+            "end_time": "2026-05-24T18:23:06.587822",
+            "duration_minutes": 293,
+            "revenue": 110.0
+        },
+        {
+            "id": 451,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-24T13:30:02.650546",
+            "end_time": "2026-05-24T13:45:45.189147",
+            "duration_minutes": 16,
+            "revenue": 0.0
+        },
+        {
+            "id": 449,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-24T13:30:02.638558",
+            "end_time": "2026-05-24T14:04:03.977855",
+            "duration_minutes": 34,
+            "revenue": 0.0
+        },
+        {
+            "id": 445,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-24T13:30:02.613914",
+            "end_time": "2026-05-24T14:04:34.389151",
+            "duration_minutes": 35,
+            "revenue": 0.0
+        },
+        {
+            "id": 419,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-24T12:26:53.304831",
+            "end_time": "2026-05-24T12:43:10.109488",
+            "duration_minutes": 16,
+            "revenue": 0.0
+        },
+        {
+            "id": 416,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-05-24T12:20:28.513615",
+            "end_time": "2026-05-24T12:47:19.606223",
+            "duration_minutes": 27,
+            "revenue": 0.0
+        },
+        {
+            "id": 415,
+            "mac_address": "DF:93:E0:0C:B3:3F",
+            "start_time": "2026-05-24T12:16:55.251167",
+            "end_time": "2026-05-24T12:48:04.505262",
+            "duration_minutes": 31,
+            "revenue": 75.0
+        },
+        {
+            "id": 414,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2026-05-24T12:15:28.095796",
+            "end_time": "2026-05-24T12:34:28.109152",
+            "duration_minutes": 19,
+            "revenue": 0.0
+        },
+        {
+            "id": 411,
+            "mac_address": "C5:C4:AE:8F:95:3F",
+            "start_time": "2026-05-24T12:09:18.023333",
+            "end_time": "2026-05-24T12:54:42.481692",
+            "duration_minutes": 45,
+            "revenue": 60.0
+        },
+        {
+            "id": 407,
+            "mac_address": "F8:4F:25:08:D3:39",
+            "start_time": "2026-05-24T12:01:30.796173",
+            "end_time": "2026-05-24T12:25:47.869994",
+            "duration_minutes": 24,
+            "revenue": 40.0
+        },
+        {
+            "id": 406,
+            "mac_address": "E1:1B:5F:A2:2C:69",
+            "start_time": "2026-05-24T11:56:27.553361",
+            "end_time": "2026-05-24T12:11:23.989627",
+            "duration_minutes": 15,
+            "revenue": 40.0
+        },
+        {
+            "id": 403,
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "start_time": "2026-05-24T11:56:27.532285",
+            "end_time": "2026-05-24T12:55:13.050293",
+            "duration_minutes": 59,
+            "revenue": 60.0
+        },
+        {
+            "id": 402,
+            "mac_address": "49:42:63:E8:55:5D",
+            "start_time": "2026-05-24T11:56:27.526174",
+            "end_time": "2026-05-24T12:59:16.484252",
+            "duration_minutes": 63,
+            "revenue": 0.0
+        },
+        {
+            "id": 401,
+            "mac_address": "C2:88:04:73:34:77",
+            "start_time": "2026-05-24T11:56:27.519980",
+            "end_time": "2026-05-24T12:18:46.149792",
+            "duration_minutes": 22,
+            "revenue": 75.0
+        },
+        {
+            "id": 400,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-24T11:56:27.513779",
+            "end_time": "2026-05-24T12:59:16.412320",
+            "duration_minutes": 63,
+            "revenue": 110.0
+        },
+        {
+            "id": 394,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-24T11:56:27.477187",
+            "end_time": "2026-05-24T12:21:38.919945",
+            "duration_minutes": 25,
+            "revenue": 0.0
+        },
+        {
+            "id": 392,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-24T11:56:27.464913",
+            "end_time": "2026-05-24T12:12:14.363230",
+            "duration_minutes": 16,
+            "revenue": 0.0
+        },
+        {
+            "id": 385,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-22T20:20:42.714144",
+            "end_time": "2026-05-22T20:38:38.553988",
+            "duration_minutes": 18,
+            "revenue": 0.0
+        },
+        {
+            "id": 378,
+            "mac_address": "CC:0A:EC:9F:0C:C9",
+            "start_time": "2026-05-22T19:52:35.244737",
+            "end_time": "2026-05-22T20:22:29.279608",
+            "duration_minutes": 30,
+            "revenue": 40.0
+        },
+        {
+            "id": 374,
+            "mac_address": "49:42:63:E8:55:5D",
+            "start_time": "2026-05-22T19:45:13.884340",
+            "end_time": "2026-05-22T20:49:36.462431",
+            "duration_minutes": 64,
+            "revenue": 0.0
+        },
+        {
+            "id": 373,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-22T19:45:13.875014",
+            "end_time": "2026-05-22T20:49:36.369642",
+            "duration_minutes": 64,
+            "revenue": 110.0
+        },
+        {
+            "id": 372,
+            "mac_address": "E1:1B:5F:A2:2C:69",
+            "start_time": "2026-05-22T19:45:11.869046",
+            "end_time": "2026-05-22T20:42:43.552945",
+            "duration_minutes": 58,
+            "revenue": 60.0
+        },
+        {
+            "id": 371,
+            "mac_address": "F9:A9:24:3E:E4:DC",
+            "start_time": "2026-05-22T19:45:11.863042",
+            "end_time": "2026-05-22T20:38:24.477036",
+            "duration_minutes": 53,
+            "revenue": 60.0
+        },
+        {
+            "id": 364,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-22T19:45:11.820587",
+            "end_time": "2026-05-22T20:41:28.769644",
+            "duration_minutes": 56,
+            "revenue": 0.0
+        },
+        {
+            "id": 363,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-22T19:45:11.814394",
+            "end_time": "2026-05-22T20:39:05.971352",
+            "duration_minutes": 54,
+            "revenue": 0.0
+        },
+        {
+            "id": 362,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2026-05-22T19:45:11.808427",
+            "end_time": "2026-05-22T20:41:28.762991",
+            "duration_minutes": 56,
+            "revenue": 0.0
+        },
+        {
+            "id": 361,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-22T19:45:11.802456",
+            "end_time": "2026-05-22T20:41:30.777818",
+            "duration_minutes": 56,
+            "revenue": 0.0
+        },
+        {
+            "id": 360,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2026-05-22T19:45:11.796384",
+            "end_time": "2026-05-22T20:38:36.542967",
+            "duration_minutes": 53,
+            "revenue": 0.0
+        },
+        {
+            "id": 359,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-22T19:45:11.790396",
+            "end_time": "2026-05-22T20:16:26.594875",
+            "duration_minutes": 31,
+            "revenue": 0.0
+        },
+        {
+            "id": 358,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2026-05-22T19:45:11.784395",
+            "end_time": "2026-05-22T20:39:39.110237",
+            "duration_minutes": 54,
+            "revenue": 0.0
+        },
+        {
+            "id": 357,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-22T19:45:11.778387",
+            "end_time": "2026-05-22T20:38:53.590184",
+            "duration_minutes": 54,
+            "revenue": 0.0
+        },
+        {
+            "id": 356,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-05-22T19:45:11.772300",
+            "end_time": "2026-05-22T20:38:49.578031",
+            "duration_minutes": 54,
+            "revenue": 0.0
+        },
+        {
+            "id": 355,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-05-22T19:45:11.762765",
+            "end_time": "2026-05-22T20:41:28.753979",
+            "duration_minutes": 56,
+            "revenue": 0.0
+        },
+        {
+            "id": 352,
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "start_time": "2026-05-22T19:16:17.251666",
+            "end_time": "2026-05-22T19:37:48.238179",
+            "duration_minutes": 22,
+            "revenue": 40.0
+        },
+        {
+            "id": 351,
+            "mac_address": "CC:0A:EC:9F:0C:C9",
+            "start_time": "2026-05-22T19:16:02.151194",
+            "end_time": "2026-05-22T19:37:48.228726",
+            "duration_minutes": 22,
+            "revenue": 40.0
+        },
+        {
+            "id": 348,
+            "mac_address": "E8:54:BA:1B:70:09",
+            "start_time": "2026-05-22T18:58:57.997247",
+            "end_time": "2026-05-22T19:36:13.131213",
+            "duration_minutes": 37,
+            "revenue": 40.0
+        },
+        {
+            "id": 346,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2026-05-22T18:14:06.215835",
+            "end_time": "2026-05-22T18:44:36.125077",
+            "duration_minutes": 30,
+            "revenue": 0.0
+        },
+        {
+            "id": 345,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-05-22T18:13:52.823678",
+            "end_time": "2026-05-22T18:44:48.846009",
+            "duration_minutes": 31,
+            "revenue": 0.0
+        },
+        {
+            "id": 344,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-22T17:54:23.945045",
+            "end_time": "2026-05-22T18:23:06.702145",
+            "duration_minutes": 29,
+            "revenue": 0.0
+        },
+        {
+            "id": 343,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-05-22T17:35:17.673904",
+            "end_time": "2026-05-22T17:51:47.744651",
+            "duration_minutes": 17,
+            "revenue": 0.0
+        },
+        {
+            "id": 341,
+            "mac_address": "49:42:63:E8:55:5D",
+            "start_time": "2026-05-22T16:37:05.973883",
+            "end_time": "2026-05-22T19:44:45.556703",
+            "duration_minutes": 188,
+            "revenue": 0.0
+        },
+        {
+            "id": 340,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-22T16:20:19.374031",
+            "end_time": "2026-05-22T16:50:44.929550",
+            "duration_minutes": 30,
+            "revenue": 0.0
+        },
+        {
+            "id": 339,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-22T15:58:45.654181",
+            "end_time": "2026-05-22T19:44:45.496615",
+            "duration_minutes": 226,
+            "revenue": 110.0
+        },
+        {
+            "id": 321,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-05-21T21:51:03.758096",
+            "end_time": "2026-05-22T14:36:31.898820",
+            "duration_minutes": 1005,
+            "revenue": 0.0
+        },
+        {
+            "id": 319,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-05-21T21:50:51.406438",
+            "end_time": "2026-05-22T14:36:31.979290",
+            "duration_minutes": 1006,
+            "revenue": 0.0
+        },
+        {
+            "id": 310,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-21T21:27:29.014975",
+            "end_time": "2026-05-22T14:36:32.002769",
+            "duration_minutes": 1029,
+            "revenue": 110.0
+        },
+        {
+            "id": 307,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-05-21T21:27:28.996449",
+            "end_time": "2026-05-22T14:36:31.950825",
+            "duration_minutes": 1029,
+            "revenue": 0.0
+        },
+        {
+            "id": 281,
+            "mac_address": "F3DAC95C71B6",
+            "start_time": "2026-05-21T21:05:12.776169",
+            "end_time": "2026-05-21T21:20:19.797651",
+            "duration_minutes": 15,
+            "revenue": 75.0
+        },
+        {
+            "id": 254,
+            "mac_address": "F3:DA:C9:5C:71:B6",
+            "start_time": "2026-05-21T20:15:16.374584",
+            "end_time": "2026-05-21T20:56:12.228806",
+            "duration_minutes": 41,
+            "revenue": 0.0
+        },
+        {
+            "id": 242,
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "start_time": "2026-04-30T09:35:46.359595",
+            "end_time": "2026-05-01T00:21:38.698976",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 241,
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "start_time": "2026-04-30T09:35:46.353607",
+            "end_time": "2026-05-01T00:21:38.502382",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 240,
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "start_time": "2026-04-30T09:35:46.347673",
+            "end_time": "2026-05-01T00:21:38.420039",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 239,
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "start_time": "2026-04-30T09:35:46.341665",
+            "end_time": "2026-05-01T00:21:38.379921",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 238,
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "start_time": "2026-04-30T09:35:46.335635",
+            "end_time": "2026-05-01T00:21:38.316150",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 237,
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "start_time": "2026-04-30T09:35:46.329590",
+            "end_time": "2026-05-01T00:21:38.223202",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 236,
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "start_time": "2026-04-30T09:35:46.323534",
+            "end_time": "2026-05-01T00:21:38.145510",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 235,
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "start_time": "2026-04-30T09:35:46.317512",
+            "end_time": "2026-05-01T00:21:38.071826",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 234,
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "start_time": "2026-04-30T09:35:46.311361",
+            "end_time": "2026-05-01T00:21:37.991942",
+            "duration_minutes": 886,
+            "revenue": 40.0
+        },
+        {
+            "id": 233,
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "start_time": "2026-04-30T09:35:46.302321",
+            "end_time": "2026-05-01T00:21:37.939091",
+            "duration_minutes": 886,
+            "revenue": 40.0
         },
         {
             "id": 202,
             "mac_address": "DC:2C:6E:9F:98:64",
             "start_time": "2026-04-29T22:52:07.329252",
-            "end_time": "2026-04-30T09:23:23.564381",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.895830",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 201,
             "mac_address": "DC:2C:6E:9F:98:3E",
             "start_time": "2026-04-29T22:52:07.325895",
-            "end_time": "2026-04-30T09:23:23.557761",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.889556",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 200,
             "mac_address": "DC:2C:6E:9F:98:C7",
             "start_time": "2026-04-29T22:52:07.322553",
-            "end_time": "2026-04-30T09:23:23.554002",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.883303",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 199,
             "mac_address": "DC:2C:6E:9F:98:BE",
             "start_time": "2026-04-29T22:52:07.319319",
-            "end_time": "2026-04-30T09:23:23.549117",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.877026",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 198,
             "mac_address": "DC:2C:6E:9F:9C:8C",
             "start_time": "2026-04-29T22:52:07.316059",
-            "end_time": "2026-04-30T09:23:23.542653",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.870764",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 197,
             "mac_address": "DC:2C:6E:9D:22:59",
             "start_time": "2026-04-29T22:52:07.312646",
-            "end_time": "2026-04-30T09:23:23.538949",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.864487",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 196,
             "mac_address": "DC:2C:6E:9F:99:B4",
             "start_time": "2026-04-29T22:52:07.309260",
-            "end_time": "2026-04-30T09:23:23.535222",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.858186",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 195,
             "mac_address": "DC:2C:6E:9D:30:9F",
             "start_time": "2026-04-29T22:52:07.306047",
-            "end_time": "2026-04-30T09:23:23.531129",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.849901",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 194,
             "mac_address": "DC:2C:6E:9F:99:9A",
             "start_time": "2026-04-29T22:52:07.298439",
-            "end_time": "2026-04-30T09:23:23.527431",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.843496",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
             "id": 193,
             "mac_address": "DC:2C:6E:9F:99:9F",
             "start_time": "2026-04-29T22:52:07.292778",
-            "end_time": "2026-04-30T09:23:23.523553",
-            "duration_minutes": 631,
+            "end_time": "2026-04-30T09:19:33.835420",
+            "duration_minutes": 627,
             "revenue": 40.0
         },
         {
@@ -696,14 +1640,386 @@
     "karts": [
         {
             "mac_address": "F3:DA:C9:5C:71:B6",
-            "name": "Kart-71B6",
-            "status": "IN_USE",
-            "last_seen": 1779357524.9179761,
-            "last_known_rssi": -127,
+            "name": "ciclo mic verde 1",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316519,
+            "last_known_rssi": -76,
             "is_virtual": false,
             "notes": "",
-            "time_entered_await": 1779776939.965568,
+            "time_entered_await": 1779449798.0174875,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:98:C7",
+            "name": "Kart-98C7",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.6298184,
+            "last_known_rssi": -82,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779458869.0771224,
             "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9D:22:59",
+            "name": "Kart-2259",
+            "status": "STATIONARY",
+            "last_seen": 1779467208.7835593,
+            "last_known_rssi": -90,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779449798.0176187,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:98:3E",
+            "name": "Kart-983E",
+            "status": "STATIONARY",
+            "last_seen": 1779467223.6317377,
+            "last_known_rssi": -94,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779464152.2237961,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:9C:8C",
+            "name": "Kart-9C8C",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.6297371,
+            "last_known_rssi": -76,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779449798.017673,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9D:30:9F",
+            "name": "Kart-309F",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.629847,
+            "last_known_rssi": -74,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779461643.7796018,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:99:9F",
+            "name": "Kart-999F",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.6298084,
+            "last_known_rssi": -79,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779462824.8214812,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:99:9A",
+            "name": "Kart-999A",
+            "status": "STATIONARY",
+            "last_seen": 1779467202.783095,
+            "last_known_rssi": -77,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779466878.8838317,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:99:B4",
+            "name": "Kart-99B4",
+            "status": "STATIONARY",
+            "last_seen": 1779467217.156967,
+            "last_known_rssi": -80,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779449798.017827,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:98:64",
+            "name": "Kart-9864",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.6297414,
+            "last_known_rssi": -82,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779462810.9220757,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "DC:2C:6E:9F:98:BE",
+            "name": "Kart-98BE",
+            "status": "STATIONARY",
+            "last_seen": 1779467223.6317415,
+            "last_known_rssi": -81,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779449800.0178416,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "F3DAC95C71B6",
+            "name": "ciclo mic albastru 1",
+            "status": "STATIONARY",
+            "last_seen": 0.0,
+            "last_known_rssi": -100,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779449800.0178852,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "DF:93:E0:0C:B3:3F",
+            "name": "ciclo mic albasuru 2",
+            "status": "STATIONARY",
+            "last_seen": 1779467223.631705,
+            "last_known_rssi": -66,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "CD:9B:66:2F:03:4E",
+            "name": "ciclo mic rosu 1",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316416,
+            "last_known_rssi": -80,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "C2:88:04:73:34:77",
+            "name": "ciclo mic mov 1",
+            "status": "STATIONARY",
+            "last_seen": 1779467221.6310961,
+            "last_known_rssi": -69,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "D8:09:CD:28:1F:78",
+            "name": "ciclo mic verde 2",
+            "status": "STATIONARY",
+            "last_seen": 1779467223.631729,
+            "last_known_rssi": -81,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mic",
+            "is_online": false
+        },
+        {
+            "mac_address": "D8:13:63:A2:BB:63",
+            "name": "ciclo mare verde 1",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.631635,
+            "last_known_rssi": -88,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mare",
+            "is_online": false
+        },
+        {
+            "mac_address": "ED:96:CB:9D:B1:49",
+            "name": "ciclo mare mov 1",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.631632,
+            "last_known_rssi": -88,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "ciclofan mare",
+            "is_online": false
+        },
+        {
+            "mac_address": "49:42:63:E8:55:5D",
+            "name": "Kart-555D",
+            "status": "STATIONARY",
+            "last_seen": 1779456872.6451645,
+            "last_known_rssi": -78,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779457001.1811063,
+            "category": "Implicit",
+            "is_online": false
+        },
+        {
+            "mac_address": "CC:0A:EC:9F:0C:C9",
+            "name": "duo chopper 70",
+            "status": "STATIONARY",
+            "last_seen": 1779466414.4586754,
+            "last_known_rssi": -82,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779466541.1861646,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "F3:60:C7:30:0A:F4",
+            "name": "duo chopper 72",
+            "status": "STATIONARY",
+            "last_seen": 1779466422.8266265,
+            "last_known_rssi": -80,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779466553.7483523,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "F4:7E:84:01:6E:4B",
+            "name": "duo chopper 64",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316376,
+            "last_known_rssi": -83,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "EA:1E:1F:EA:9E:FD",
+            "name": "duo chopper 69",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.631656,
+            "last_known_rssi": -74,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "F8:4F:25:08:D3:39",
+            "name": "duo chopper 67",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.631644,
+            "last_known_rssi": -97,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "E8:54:BA:1B:70:09",
+            "name": "duo chopper 71",
+            "status": "STATIONARY",
+            "last_seen": 1779465332.1161315,
+            "last_known_rssi": -81,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 1779465516.5657413,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "D6:E7:27:18:F3:16",
+            "name": "duo chopper 68",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316476,
+            "last_known_rssi": -81,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "C5:C4:AE:8F:95:3F",
+            "name": "duo chopper 66",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316457,
+            "last_known_rssi": -71,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "C6:2B:88:BA:A2:9E",
+            "name": "duo chopper 65",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316578,
+            "last_known_rssi": -67,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "D6:17:96:E3:04:58",
+            "name": "duo chopper 61",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316495,
+            "last_known_rssi": -89,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "FA:2A:AE:6A:B6:37",
+            "name": "chopper 37",
+            "status": "STATIONARY",
+            "last_seen": 1779467221.631089,
+            "last_known_rssi": -69,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "Kart mare",
+            "is_online": false
+        },
+        {
+            "mac_address": "F9:A9:24:3E:E4:DC",
+            "name": "duo chopper 62",
+            "status": "STATIONARY",
+            "last_seen": 1779467225.6316543,
+            "last_known_rssi": -77,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
+            "is_online": false
+        },
+        {
+            "mac_address": "E1:1B:5F:A2:2C:69",
+            "name": "duo chopper 63",
+            "status": "STATIONARY",
+            "last_seen": 1779467219.6297534,
+            "last_known_rssi": -81,
+            "is_virtual": false,
+            "notes": "",
+            "time_entered_await": 0.0,
+            "category": "duo chopper",
             "is_online": false
         }
     ]
