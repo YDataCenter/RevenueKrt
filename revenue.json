@@ -1652,7 +1652,7 @@
             "notes": "",
             "time_entered_await": 1779638837.0396826,
             "category": "Implicit",
-            "is_online": true
+            "is_online": false
         },
         {
             "mac_address": "DC:2C:6E:9F:99:9F",
