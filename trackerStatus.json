@@ -1,8 +1,8 @@
 {
-    "last_seen": "2026-05-26T22:00:11.357949",
-    "online_karts": 20,
-    "total_karts": 39,
-    "today_revenue": 840.0,
+    "last_seen": "2026-05-27T19:12:51.604668",
+    "online_karts": 0,
+    "total_karts": 30,
+    "today_revenue": 0,
     "config_updated_at": "2026-05-26T11:25:23.759375",
     "version": "1.0.0"
 }
